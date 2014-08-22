@@ -1,0 +1,13 @@
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\HD-IConX\bin\Debug\HD-IConX.exe.config
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\bin\Debug\HD-IConX.exe.config
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\bin\Debug\HD-IConX.exe
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\bin\Debug\HD-IConX.pdb
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\bin\Debug\HD-IConX.xml
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\obj\Debug\HD_IConX.Resources.resources
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\obj\Debug\HD-IConX.vbproj.GenerateResource.Cache
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\obj\Debug\HD-IConX.exe
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\obj\Debug\HD-IConX.xml
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\obj\Debug\HD-IConX.pdb
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bradmkjr\Documents\Repos\HD-IConX\obj\Debug\HD-IConX.vbprojResolveAssemblyReference.cache
