@@ -1,0 +1,12 @@
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\bin\Debug\Danmer HD IConX.exe
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\bin\Debug\Danmer HD IConX.pdb
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\bin\Debug\Danmer HD IConX.xml
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\obj\x86\Debug\Danmer_HD_IConX.Resources.resources
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\obj\x86\Debug\Danmer HD IConX.vbproj.GenerateResource.Cache
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\obj\x86\Debug\Danmer HD IConX.exe
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\obj\x86\Debug\Danmer HD IConX.xml
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\obj\x86\Debug\Danmer HD IConX.pdb
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\obj\x86\Debug\Danmer HD IConX.vbprojResolveAssemblyReference.cache
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\bradmkjr\Documents\GitHub\HD-IConX\bin\Debug\Newtonsoft.Json.xml
