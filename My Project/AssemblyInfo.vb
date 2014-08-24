@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("HD-IConX")> 
+<Assembly: AssemblyTitle("Danmer HD IConX")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("Microsoft")> 
-<Assembly: AssemblyProduct("HD-IConX")> 
+<Assembly: AssemblyProduct("Danmer HD IConX")> 
 <Assembly: AssemblyCopyright("Copyright © Microsoft 2014")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("dd3d93fa-d964-4719-988f-9ec356cd2f67")> 
+<Assembly: Guid("9c42ab3d-a421-4ee1-b100-507818697133")> 
 
 ' Version information for an assembly consists of the following four values:
 '
