@@ -19,6 +19,34 @@ DanmerHDIConX
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
+</member><member name="M:Danmer_HD_IConX.Module1.auth_accesstoken">
+	<summary>
+ The purpose of this service to get a time limited access_token for signing future requests
+ </summary>
+	<returns>access_token</returns>
+	<remarks></remarks>
+</member><member name="M:Danmer_HD_IConX.Module1.poworklist_summary(System.String)">
+	<summary>
+ The purpose of this service to provide high level synopsis of the PO Worklist items. It provides the following information, more details would be defined in the Response structure.
+ </summary>
+	<returns>XML Data</returns>
+	<remarks></remarks>
+</member><member name="M:Danmer_HD_IConX.Module1.poworklist_list(System.String,System.String)">
+	<summary>
+ The service provides the Search capabilities against the PO Worklist items and provides the list of the Worklist items based on the criteria. Use this method to retrieve the individual POs from worklist either with or without a search criteria. This service provides the capability to Search for PO Worklist items by any of the following criteria.
+ </summary>
+	<param name="app_token">App_token</param>
+	<param name="XMLBody">XML Body</param>
+	<returns>XML Response</returns>
+	<remarks></remarks>
+</member><member name="M:Danmer_HD_IConX.Module1.pooverview_get_id(System.String,System.String)">
+	<summary>
+ PO Details service that provides the following capabilities:
+ </summary>
+	<param name="app_token">App_token</param>
+	<param name="XMLBody">XML Body</param>
+	<returns>XML Response</returns>
+	<remarks></remarks>
 </member>
 </members>
 </doc>
